@@ -1,2 +1,2 @@
 # Java-Practice-Problems-w-Answers
-Java practice problems with answers!
+This is a project for begginer java programmers.
